@@ -106,7 +106,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Related Projects
 
 - https://github.com/olimiemma/Child-Cost-Estimator <pr>
--https://github.com/olimiemma/Disease-Transactional-Model-Design-for-Global-Health-Tracking
+- https://github.com/olimiemma/Disease-Transactional-Model-Design-for-Global-Health-Tracking
 
 ## 📞 Contact
 
