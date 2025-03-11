@@ -105,7 +105,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Related Projects
 
-- https://github.com/olimiemma/Child-Cost-Estimator 
+- https://github.com/olimiemma/Child-Cost-Estimator <pr>
 -https://github.com/olimiemma/Disease-Transactional-Model-Design-for-Global-Health-Tracking
 
 ## 📞 Contact
@@ -114,4 +114,4 @@ If you have any questions or would like to contribute to this project, please op
 
 ---
 
-Made with ☕ and 💻 by [Your Name]
+Made with ☕ and 💻 by Emmanuel Kasigazi
