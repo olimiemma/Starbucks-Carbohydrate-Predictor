@@ -1,5 +1,5 @@
-# Starbucks Carbohydrate Predictor
-[https://v0-starbucks-carbs-issue.vercel.app/](https://v0-starbucks-carbs-issue.vercel.app/)
+# [Starbucks Carbohydrate Predictor](https://v0-starbucks-carbs-issue.vercel.app/)
+
 
 ![Starbucks Carbohydrate Predictor] ![image](https://github.com/user-attachments/assets/696bb21c-0d04-47a0-a123-62ab01fe2bfe)
 
